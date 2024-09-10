@@ -57,6 +57,7 @@ The app enables users to make various data requests (e.g., searching for planets
    git clone https://github.com/rbevan-png/randallProject.git
    cd randallProject
 2. **Install Dependencies**:
+   ```bash
    npm install
    cd ios && pod install
 3. **Run the App**
