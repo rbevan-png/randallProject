@@ -54,10 +54,11 @@ The app enables users to make various data requests (e.g., searching for planets
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/death-star-data.git
-   cd death-star-data
+   git clone https://github.com/rbevan-png/randallProject.git
+   cd randallProject
 2. **Install Dependencies**:
    npm install
+   cd ios && pod install
 3. **Run the App**
    - Open the project in Xcode:
       open ios/randallProject.xcworkspace
