@@ -30,6 +30,9 @@ The app enables users to make various data requests (e.g., searching for planets
    - Evaluates policies based on user roles and attributes to allow or deny access to specific actions.
 5. **Star Wars API**:
    - Third-party API that the application fetches data from regarding to Star Wars
+  
+![MASproject1 drawio](https://github.com/user-attachments/assets/d2f4cf38-6eba-4f8d-bc90-9922201179d6)
+
 ---
 
 ## How It Works
